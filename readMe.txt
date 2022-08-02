@@ -1,0 +1,1 @@
+created for "Dealing with files" on the MDN guides page
